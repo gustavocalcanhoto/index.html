@@ -62,3 +62,7 @@ nav a{
     border-style: solid; 
     backgound-color: pink;
 }
+nav a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
